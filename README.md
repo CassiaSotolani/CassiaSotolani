@@ -14,6 +14,6 @@
  ##
  
 <div>
-  <a href="https://www.linkedin.com/in/cassia-sotolani-16a811bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
+  <a href="https://www.linkedin.com/in/cassia-sotolani-16a811bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
   <a href="https://cassiasotolani.github.io/portfolio.github.io/" target="_blank">Veja meu portfólio</a>
 </div>
