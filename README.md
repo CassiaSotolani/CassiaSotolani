@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou a Cassia Sotolani 👋
 
-- 🌱 Estudante HTML5, CSS3 e JavaSript.
+- 🌱 Estudante de Front-end.
 - 📫 Contate-me no e-mail: ca.sotolani@gmail.com
 
 ## 🛠 Habilidades
