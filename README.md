@@ -11,7 +11,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/remojansen/logo.ts/blob/master/ts.png">
-  <img align="center" height="20" width="30" src="https://angular.io/assets/images/logos/angular/angular.png">  	
+  <img align="center" height="30" width="20" src="https://angular.io/assets/images/logos/angular/angular.png">  	
  </div>
 
 ## 🔗 Links
